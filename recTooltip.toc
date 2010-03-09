@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: recTooltip
+## Notes: Tooltip
+## Author: Recluse
+## Version: $Id: recTooltip.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recPanels, recMedia, recLib
+
+core.lua
